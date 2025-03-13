@@ -1,0 +1,9 @@
+{
+"gitHubApp": {
+  "connectedOrg": "opensearchfun",
+  "approvalWorkflow": true,
+  "userDocsWorkflows": ["generateUserDocs"],
+  "issues": true,
+  "branches": ["*"]
+  }
+}

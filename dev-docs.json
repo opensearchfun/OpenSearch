@@ -1,7 +1,6 @@
 {
 "gitHubApp": {
   "connectedOrg": "andrewandlizopensearchfun",
-  "approvalWorkflow": true,
   "userDocsWorkflows": ["generateUserDocs"],
   "issues": true,
   "branches": ["*"]
